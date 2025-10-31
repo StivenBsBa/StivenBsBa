@@ -1,26 +1,39 @@
-# ¡Hola, soy Brayan Barajas! 👨‍💻
+# 👋 ¡Hola! Soy **Brayan Barajas**
 
-Soy un **desarrollador junior** apasionado por el mundo del desarrollo web, con un enfoque principal en el **backend**, aunque también tengo experiencia en el desarrollo web en general. Me considero una persona **proactiva**, con habilidades para **resolver problemas** y aprender rápidamente, lo que me permite adaptarme con facilidad a nuevas tecnologías y entornos de trabajo.
+Soy un **Desarrollador Backend / Fullstack Junior** apasionado por construir soluciones escalables y limpias.  
+Me gusta trabajar en la **lógica del backend** con **Python (FastAPI)**, **Node.js** y **Ruby on Rails**, aunque también disfruto crear interfaces con **React** y **Redux**.
 
-Mi compromiso con el **crecimiento profesional** y mi disposición para asumir nuevos retos me convierten en un candidato ideal para integrarme a un equipo dinámico, donde pueda contribuir con mis habilidades y aprender de mis colegas en proyectos desafiantes y estimulantes.
+Soy una persona **proactiva, autodidacta y curiosa**, siempre buscando aprender nuevas tecnologías y mejorar la calidad del código.  
+Mi objetivo es seguir creciendo como desarrollador, contribuyendo a proyectos que generen impacto real 🚀.
 
-Estoy emocionado por la oportunidad de seguir creciendo como **desarrollador** y ser parte de un equipo que comparta mi pasión por la **programación**.
+---
 
 ## 💻 Tecnologías y Habilidades
-- **Lenguajes de Programación**: JavaScript, Python, Java
-- **Frameworks y Librerías**: React, Node.js
-- **Bases de Datos**: SQL, PostgreSQL, MongoDB
-- **Herramientas**: Power BI, Git, GitHub
 
-## 🌐 Página web y blog profesional
-Puedes leer sobre mis experiencias y proyectos en mi blog profesional: [mi blog en GitHub Pages](https://stivenbsba.github.io/MyBlog/)
+**Lenguajes:** JavaScript · Python · Java  
+**Frontend:** React · Redux · HTML5 · CSS3  
+**Backend:** Node.js · FastAPI · Ruby on Rails  
+**Bases de Datos:** SQL · PostgreSQL · MongoDB  
+**Herramientas:** Git · GitHub · Power BI · n8n  
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=StivenBsBa&show_icons=true&hide_title=true&hide=prs)
+---
 
-**[Gestión de Bases de Datos](link-a-tu-repositorio)**: Proyecto donde implemento soluciones eficientes en bases de datos relacionales y NoSQL.
+## 🧠 Proyectos Destacados
 
-## 📞 Contacto
-- Correo electrónico: [bsbariza@gmail.com](bsbariza@gmial.com)
-- LinkedIn: [Mi LinkedIn](https://www.linkedin.com/in/brayanstiven/)
+- 🗣️ **Plataforma de IA Conversacional** — API en FastAPI con NLP que traduce lenguaje natural a SQL.  
+- 🌍 **LocalRoot** — App web fullstack (MERN) para explorar eventos y lugares turísticos en Medellín.  
+- 🗃️ **Gestión de Bases de Datos** — Soluciones eficientes con SQL y NoSQL.  
 
+---
+
+## 📊 Mis estadísticas en GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StivenBsBa&show_icons=true&theme=react&hide_title=true&hide_border=true)
+
+---
+
+## 🌐 Sitio y Contacto
+
+📘 **Blog:** [stivenbsba.github.io/MyBlog](https://stivenbsba.github.io/MyBlog)  
+💼 **LinkedIn:** [linkedin.com/in/brayanstiven](https://www.linkedin.com/in/brayanstiven/)  
+📧 **Email:** [bsbariza@gmail.com](mailto:bsbariza@gmail.com)
