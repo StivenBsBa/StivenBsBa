@@ -47,11 +47,6 @@ Busco seguir creciendo profesionalmente participando en proyectos con impacto re
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StivenBsBa&show_icons=true&theme=react&hide_title=true&hide_border=true)
----
-
 ## 🌐 Contacto y Enlaces
 
 📘 **Blog:** [stivenbsba.github.io/MyBlog](https://stivenbsba.github.io/MyBlog)
