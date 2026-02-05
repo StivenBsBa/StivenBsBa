@@ -1,39 +1,61 @@
-# 👋 ¡Hola! Soy **Brayan Barajas**
+# 👋 Hola, soy **Brayan Barajas**
 
-Soy un **Desarrollador Backend / Fullstack Junior** apasionado por construir soluciones escalables y limpias.  
-Me gusta trabajar en la **lógica del backend** con **Python (FastAPI)**, **Node.js** y **Ruby on Rails**, aunque también disfruto crear interfaces con **React** y **Redux**.
+**Desarrollador Backend / Fullstack Junior** con enfoque en la construcción de **APIs REST**, automatización y aplicaciones web mantenibles.
+Trabajo principalmente en el **backend** usando **Python (FastAPI)**, **Node.js** y **Ruby on Rails**, y complemento mis desarrollos con **React** para interfaces modernas y funcionales.
 
-Soy una persona **proactiva, autodidacta y curiosa**, siempre buscando aprender nuevas tecnologías y mejorar la calidad del código.  
-Mi objetivo es seguir creciendo como desarrollador, contribuyendo a proyectos que generen impacto real 🚀.
+Me caracterizo por ser **autodidacta, analítico y orientado a buenas prácticas**, aplicando principios de clean code, control de versiones y despliegue básico con contenedores.
+Busco seguir creciendo profesionalmente participando en proyectos con impacto real y retos técnicos constantes.
 
 ---
 
 ## 💻 Tecnologías y Habilidades
 
-**Lenguajes:** JavaScript · Python · Java  
-**Frontend:** React · Redux · HTML5 · CSS3  
-**Backend:** Node.js · FastAPI · Ruby on Rails  
-**Bases de Datos:** SQL · PostgreSQL · MongoDB  
-**Herramientas:** Git · GitHub · Power BI · n8n  
+**Lenguajes**
+
+* Python · JavaScript · Java
+
+**Backend**
+
+* FastAPI · Node.js · Ruby on Rails
+* APIs REST · Autenticación · Arquitectura modular
+
+**Frontend**
+
+* React · Redux · HTML5 · CSS3
+
+**Bases de Datos**
+
+* PostgreSQL · SQL · MongoDB
+
+**Herramientas y DevOps**
+
+* Git · GitHub · Docker
+* Power BI · n8n
 
 ---
 
 ## 🧠 Proyectos Destacados
 
-- 🗣️ **Plataforma de IA Conversacional** — API en FastAPI con NLP que traduce lenguaje natural a SQL.  
-- 🌍 **LocalRoot** — App web fullstack (MERN) para explorar eventos y lugares turísticos en Medellín.  
-- 🗃️ **Gestión de Bases de Datos** — Soluciones eficientes con SQL y NoSQL.  
+* 🗣️ **Plataforma de IA Conversacional**
+  API desarrollada con **FastAPI** que interpreta lenguaje natural y lo transforma en consultas **SQL**, integrando procesamiento de texto y lógica backend.
+
+* 🌍 **LocalRoot**
+  Aplicación web **fullstack MERN** para explorar eventos y lugares turísticos en Medellín, con consumo de APIs, manejo de estado y estructura escalable.
+
+* 🗃️ **Gestión de Datos**
+  Implementación de soluciones con **bases de datos relacionales y NoSQL**, enfocadas en consultas eficientes y modelado correcto.
 
 ---
 
-## 📊 Mis estadísticas en GitHub
+## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StivenBsBa&show_icons=true&theme=react&hide_title=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StivenBsBa\&show_icons=true\&theme=react\&hide_title=true\&hide_border=true)
 
 ---
 
-## 🌐 Sitio y Contacto
+## 🌐 Contacto y Enlaces
 
-📘 **Blog:** [stivenbsba.github.io/MyBlog](https://stivenbsba.github.io/MyBlog)  
-💼 **LinkedIn:** [linkedin.com/in/brayanstiven](https://www.linkedin.com/in/brayanstiven/)  
+📘 **Blog:** [stivenbsba.github.io/MyBlog](https://stivenbsba.github.io/MyBlog)
+💼 **LinkedIn:** [linkedin.com/in/brayanstiven](https://www.linkedin.com/in/brayanstiven/)
 📧 **Email:** [bsbariza@gmail.com](mailto:bsbariza@gmail.com)
+
