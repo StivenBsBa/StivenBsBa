@@ -87,8 +87,6 @@ Desarrollo de APIs REST y herramientas para automatizar procesos, integrar servi
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Activity
 
 <p align="center">
